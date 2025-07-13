@@ -37,6 +37,6 @@
     "@dashkite/genie-coffee": "link:../genie-coffee"
   },
   "dependencies": {
-    "@dashkite/joy": "link:../joy"
+    "@dashkite/joy": "^0.4.0"
   }
 }
